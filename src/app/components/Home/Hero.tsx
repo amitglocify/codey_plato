@@ -111,7 +111,7 @@ export const Hero: React.FC = () => {
       </div>
 
       <p className="box-border text-[#0B1B35] text-sm font-medium leading-[28.5px] uppercase relative z-[2] m-0 p-0">
-        Be quick! FREE spots are almost gone.
+        Be quick! FREE spots are almost sample check
       </p>
     </section>
   );
